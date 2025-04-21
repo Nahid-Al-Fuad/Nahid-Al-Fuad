@@ -8,7 +8,7 @@
 - 💼 Currently working as a **Senior Software Engineer** at **ASA**
 - 💡 Previously worked at **Nitol Niloy Group** as a Sr. Executive (Software Engineer)
 - 📍 Based in Dhaka, Bangladesh
-- 📬 Reach me at: [fuad.rndc@gmail.com](mailto:fuad.rndc@gmail.com)
+- 📬 Reach me at: [fuad.cse27@gmail.com](mailto:fuad.cse27@gmail.com)
 
 ## 💻 Skills & Technologies
 
