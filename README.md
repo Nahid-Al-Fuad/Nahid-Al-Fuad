@@ -14,7 +14,7 @@
 
 - 🖥️ Frontend: HTML5, CSS3, JavaScript
 - 🗄️ Databases: MySQL, SQL Server
-- 🧪 Backend: PHP, SQL Query, Software Implementation
+- 🧪 Backend: C#, ASP .Net Core, PHP, SQL Query
 - 📊 Tools: Microsoft Power BI
 - 🛠️ IT Support Services, Oracle
 
