@@ -1,5 +1,3 @@
-<h1 align="center">Hi 👋, I'm Nahid Al Fuad</h1>
-<h3 align="center">A passionate fullstack web developer from Bangladesh.</h3>
 
 # 👋 Hi, I'm Nahid Al Fuad
 
@@ -23,14 +21,13 @@
 ## 🎓 Education
 
 - 🎓 **MSc in Computer Science & Engineering**  
-  Dhaka International University, 2019  
-  CGPA: 3.83/4.00
 
 - 🎓 **BSc in Computer Science & Engineering**  
-  Dhaka International University, 2016  
-  CGPA: 3.93/4.00
 
 ## 🧩 Certifications & Trainings
+
+- 🏅 **Advanced Certificate for Management Professionals**  
+  *IBA, University of Dhaka*
 
 - 🏅 **MCSA - Microsoft SQL Server 2019**  
   *ibcs primax software (BD) Ltd.*, 9 Months
@@ -46,8 +43,8 @@
 ---
 
 🔗 **Let's connect!**  
-📧 Email: [fuad.rndc@gmail.com](mailto:fuad.rndc@gmail.com)  
-📞 Mobile: +8801943-403036 | +8801849-539763
+📧 Email: [fuad.cse27@gmail.com](mailto:fuad.cse27@gmail.com)  
+📞 Mobile: +8801********3
 
 
 
